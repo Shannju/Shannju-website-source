@@ -5,7 +5,7 @@ categories:
 - Model
 ---
 
-![meeting_01.00_00_02_07.Still002](%E3%80%90Fufu%E5%BB%BA%E6%A8%A1%E4%B8%8E%E5%8A%A8%E7%94%BB6%E3%80%91%E6%9D%90%E8%B4%A8%E4%B8%8E%E6%B8%B2%E6%9F%93/meeting_01.00_00_02_07.Still002.png)
+![meeting_01.00_00_02_07.Still002](【Fufu建模与动画6】材质与渲染/meeting_01.00_00_02_07.Still002-1769737256497.png)
 
 本次渲染直接使用 Eevee。
 
@@ -17,11 +17,11 @@ categories:
 
 材质预览：
 
-![meeting_01.00_03_51_03.Still054](%E3%80%90Fufu%E5%BB%BA%E6%A8%A1%E4%B8%8E%E5%8A%A8%E7%94%BB6%E3%80%91%E6%9D%90%E8%B4%A8%E4%B8%8E%E6%B8%B2%E6%9F%93/meeting_01.00_03_51_03.Still054.png)
+![meeting_01.00_03_51_03.Still054](【Fufu建模与动画6】材质与渲染/meeting_01.00_03_51_03.Still054-1769737258279.png)
 
 初步渲染：
 
-![meeting_01.00_04_00_02.Still058](%E3%80%90Fufu%E5%BB%BA%E6%A8%A1%E4%B8%8E%E5%8A%A8%E7%94%BB6%E3%80%91%E6%9D%90%E8%B4%A8%E4%B8%8E%E6%B8%B2%E6%9F%93/meeting_01.00_04_00_02.Still058.png)
+![meeting_01.00_04_00_02.Still058](【Fufu建模与动画6】材质与渲染/meeting_01.00_04_00_02.Still058-1769737259868.png)
 
 ### 三渲二材质的整体思路
 
@@ -38,15 +38,15 @@ categories:
 
 材质节点整体结构并不复杂，使用 ColorRamp 或 Mix 节点切分色阶  分别指定阴影色和高光色  
 
-![meeting_01.00_06_49_08.Still073](%E3%80%90Fufu%E5%BB%BA%E6%A8%A1%E4%B8%8E%E5%8A%A8%E7%94%BB6%E3%80%91%E6%9D%90%E8%B4%A8%E4%B8%8E%E6%B8%B2%E6%9F%93/meeting_01.00_06_49_08.Still073.png)
+![meeting_01.00_06_49_08.Still073](【Fufu建模与动画6】材质与渲染/meeting_01.00_06_49_08.Still073-1769737262133.png)
 
 ### 背景材质
 
 更换相机背景就可以达到，但是缺少渐变
 
-![meeting_01.00_05_40_07.Still066](%E3%80%90Fufu%E5%BB%BA%E6%A8%A1%E4%B8%8E%E5%8A%A8%E7%94%BB6%E3%80%91%E6%9D%90%E8%B4%A8%E4%B8%8E%E6%B8%B2%E6%9F%93/meeting_01.00_05_40_07.Still066.png)
+![meeting_01.00_05_40_07.Still066](【Fufu建模与动画6】材质与渲染/meeting_01.00_05_40_07.Still066-1769737263407.png)
 
-![meeting_01.00_05_29_13.Still065](%E3%80%90Fufu%E5%BB%BA%E6%A8%A1%E4%B8%8E%E5%8A%A8%E7%94%BB6%E3%80%91%E6%9D%90%E8%B4%A8%E4%B8%8E%E6%B8%B2%E6%9F%93/meeting_01.00_05_29_13.Still065.png)
+![meeting_01.00_05_29_13.Still065](【Fufu建模与动画6】材质与渲染/meeting_01.00_05_29_13.Still065-1769737264810.png)
 
 #### 无限背景
 
@@ -56,9 +56,9 @@ categories:
 
 
 
-![meeting_01.00_05_49_05.Still001](%E3%80%90Fufu%E5%BB%BA%E6%A8%A1%E4%B8%8E%E5%8A%A8%E7%94%BB6%E3%80%91%E6%9D%90%E8%B4%A8%E4%B8%8E%E6%B8%B2%E6%9F%93/meeting_01.00_05_49_05.Still001.png)调整渐变位置
+![meeting_01.00_05_49_05.Still001](【Fufu建模与动画6】材质与渲染/meeting_01.00_05_49_05.Still001-1769737266537.png)调整渐变位置
 
-![meeting_01.00_05_58_09.Still068](%E3%80%90Fufu%E5%BB%BA%E6%A8%A1%E4%B8%8E%E5%8A%A8%E7%94%BB6%E3%80%91%E6%9D%90%E8%B4%A8%E4%B8%8E%E6%B8%B2%E6%9F%93/meeting_01.00_05_58_09.Still068.png)
+![meeting_01.00_05_58_09.Still068](【Fufu建模与动画6】材质与渲染/meeting_01.00_05_58_09.Still068-1769737268163.png)
 
 
 
@@ -68,21 +68,21 @@ categories:
 
 添加平面又打断了背景
 
-![meeting_01.00_05_59_13.Still069](%E3%80%90Fufu%E5%BB%BA%E6%A8%A1%E4%B8%8E%E5%8A%A8%E7%94%BB6%E3%80%91%E6%9D%90%E8%B4%A8%E4%B8%8E%E6%B8%B2%E6%9F%93/meeting_01.00_05_59_13.Still069.png)
+![meeting_01.00_05_59_13.Still069](【Fufu建模与动画6】材质与渲染/meeting_01.00_05_59_13.Still069-1769737269665.png)
 
 
 
 在地面处理上，使用 Shadow Catcher 可以让地面本身不可见，但依然接住物体的阴影，从而避免“物体漂浮”的问题。
 
-![meeting_01.00_06_02_01.Still070](%E3%80%90Fufu%E5%BB%BA%E6%A8%A1%E4%B8%8E%E5%8A%A8%E7%94%BB6%E3%80%91%E6%9D%90%E8%B4%A8%E4%B8%8E%E6%B8%B2%E6%9F%93/meeting_01.00_06_02_01.Still070.png)
+![meeting_01.00_06_02_01.Still070](【Fufu建模与动画6】材质与渲染/meeting_01.00_06_02_01.Still070-1769737270969.png)
 
 风格化阴影
 
-![meeting_01.00_06_49_08.Still073](%E3%80%90Fufu%E5%BB%BA%E6%A8%A1%E4%B8%8E%E5%8A%A8%E7%94%BB6%E3%80%91%E6%9D%90%E8%B4%A8%E4%B8%8E%E6%B8%B2%E6%9F%93/meeting_01.00_06_49_08.Still073-1769726776227.png)
+![meeting_01.00_06_49_08.Still073](【Fufu建模与动画6】材质与渲染/meeting_01.00_06_49_08.Still073-1769726776227-1769737272590.png)
 
 最终效果
 
-![meeting_01.00_06_47_01.Still072](%E3%80%90Fufu%E5%BB%BA%E6%A8%A1%E4%B8%8E%E5%8A%A8%E7%94%BB6%E3%80%91%E6%9D%90%E8%B4%A8%E4%B8%8E%E6%B8%B2%E6%9F%93/meeting_01.00_06_47_01.Still072-1769725840132.png)
+![meeting_01.00_06_47_01.Still072](【Fufu建模与动画6】材质与渲染/meeting_01.00_06_47_01.Still072-1769725840132-1769737276573.png)
 
 ---
 
@@ -96,7 +96,7 @@ categories:
 
 两站聚光灯打量背景
 
-![meeting_01.00_06_23_14.Still071](%E3%80%90Fufu%E5%BB%BA%E6%A8%A1%E4%B8%8E%E5%8A%A8%E7%94%BB6%E3%80%91%E6%9D%90%E8%B4%A8%E4%B8%8E%E6%B8%B2%E6%9F%93/meeting_01.00_06_23_14.Still071.png)
+![meeting_01.00_06_23_14.Still071](【Fufu建模与动画6】材质与渲染/meeting_01.00_06_23_14.Still071-1769737280789.png)
 
 ---
 
@@ -104,23 +104,21 @@ categories:
 
 参考了别人的镜头设计，舞蹈运镜。
 
-![meeting_01.00_07_55_07.Still077](%E3%80%90Fufu%E5%BB%BA%E6%A8%A1%E4%B8%8E%E5%8A%A8%E7%94%BB6%E3%80%91%E6%9D%90%E8%B4%A8%E4%B8%8E%E6%B8%B2%E6%9F%93/meeting_01.00_07_55_07.Still077.png)
+![meeting_01.00_07_55_07.Still077](【Fufu建模与动画6】材质与渲染/meeting_01.00_07_55_07.Still077-1769737282790.png)
 
 ### 五线谱动画
 
 在节点对uv使用了公式进行移动
 
-![meeting_01.00_06_59_12.Still075](%E3%80%90Fufu%E5%BB%BA%E6%A8%A1%E4%B8%8E%E5%8A%A8%E7%94%BB6%E3%80%91%E6%9D%90%E8%B4%A8%E4%B8%8E%E6%B8%B2%E6%9F%93/meeting_01.00_06_59_12.Still075.png)
+![meeting_01.00_06_59_12.Still075](【Fufu建模与动画6】材质与渲染/meeting_01.00_06_59_12.Still075-1769737284507.png)
 
-![meeting_01.00_07_16_05.Still076](%E3%80%90Fufu%E5%BB%BA%E6%A8%A1%E4%B8%8E%E5%8A%A8%E7%94%BB6%E3%80%91%E6%9D%90%E8%B4%A8%E4%B8%8E%E6%B8%B2%E6%9F%93/meeting_01.00_07_16_05.Still076.png)
+![meeting_01.00_07_16_05.Still076](【Fufu建模与动画6】材质与渲染/meeting_01.00_07_16_05.Still076-1769737286044.png)
 
 ---
 
 最终效果
 
-![meeting_01.00_00_02_07.Still002](%E3%80%90Fufu%E5%BB%BA%E6%A8%A1%E4%B8%8E%E5%8A%A8%E7%94%BB6%E3%80%91%E6%9D%90%E8%B4%A8%E4%B8%8E%E6%B8%B2%E6%9F%93/meeting_01.00_00_02_07.Still002-1769726825568.png)
-
-
+![meeting_01.00_00_02_07.Still002](【Fufu建模与动画6】材质与渲染/meeting_01.00_00_02_07.Still002-1769726825568-1769737287692.png)
 
 ## 结语
 

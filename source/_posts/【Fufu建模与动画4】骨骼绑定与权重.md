@@ -11,17 +11,17 @@ categories:
 
 放置锚点（定位骨骼关键点）
 
-![meeting_01.00_01_50_04.Still027](%E3%80%90Fufu%E5%BB%BA%E6%A8%A1%E4%B8%8E%E5%8A%A8%E7%94%BB4%E3%80%91%E9%AA%A8%E9%AA%BC%E7%BB%91%E5%AE%9A%E4%B8%8E%E6%9D%83%E9%87%8D/meeting_01.00_01_50_04.Still027.png)
+![meeting_01.00_01_50_04.Still027](【Fufu建模与动画4】骨骼绑定与权重/meeting_01.00_01_50_04.Still027-1769737211759.png)
 
  它就会自动根据模型去计算出一套骨骼，能省不少功夫。
 
-![meeting_01.00_01_51_01.Still028](%E3%80%90Fufu%E5%BB%BA%E6%A8%A1%E4%B8%8E%E5%8A%A8%E7%94%BB4%E3%80%91%E9%AA%A8%E9%AA%BC%E7%BB%91%E5%AE%9A%E4%B8%8E%E6%9D%83%E9%87%8D/meeting_01.00_01_51_01.Still028-1769725161009.png)
+![meeting_01.00_01_51_01.Still028](【Fufu建模与动画4】骨骼绑定与权重/meeting_01.00_01_51_01.Still028-1769725161009-1769737213312.png)
 
 这一步**还没有真正绑定**，只是先帮我们生成了对应骨骼。
 
 ### 检查骨骼并生成控制器（Rig）
 
-![meeting_01.00_01_52_05.Still029](%E3%80%90Fufu%E5%BB%BA%E6%A8%A1%E4%B8%8E%E5%8A%A8%E7%94%BB4%E3%80%91%E9%AA%A8%E9%AA%BC%E7%BB%91%E5%AE%9A%E4%B8%8E%E6%9D%83%E9%87%8D/meeting_01.00_01_52_05.Still029.png)
+![meeting_01.00_01_52_05.Still029](【Fufu建模与动画4】骨骼绑定与权重/meeting_01.00_01_52_05.Still029-1769737214780.png)
 
 生成骨骼后先检查有没有问题。
 
@@ -34,7 +34,7 @@ categories:
 
 到**姿态模式（Pose Mode）**，随便动一下控制器，就能看到角色跟着动。
 
-![meeting_01.00_02_01_08.Still034](%E3%80%90Fufu%E5%BB%BA%E6%A8%A1%E4%B8%8E%E5%8A%A8%E7%94%BB4%E3%80%91%E9%AA%A8%E9%AA%BC%E7%BB%91%E5%AE%9A%E4%B8%8E%E6%9D%83%E9%87%8D/meeting_01.00_02_01_08.Still034.png)
+![meeting_01.00_02_01_08.Still034](【Fufu建模与动画4】骨骼绑定与权重/meeting_01.00_02_01_08.Still034-1769737216526.png)
 
 > #### tips
 >
@@ -48,7 +48,7 @@ categories:
 
 继续摆动作检查时发现：头发（比如曲线做的假发）没跟着头动。
 
-![meeting_01.00_01_55_07.Still032](%E3%80%90Fufu%E5%BB%BA%E6%A8%A1%E4%B8%8E%E5%8A%A8%E7%94%BB4%E3%80%91%E9%AA%A8%E9%AA%BC%E7%BB%91%E5%AE%9A%E4%B8%8E%E6%9D%83%E9%87%8D/meeting_01.00_01_55_07.Still032.png)
+![meeting_01.00_01_55_07.Still032](【Fufu建模与动画4】骨骼绑定与权重/meeting_01.00_01_55_07.Still032-1769737219654.png)
 
 这里要用**约束**。然后回到姿态模式，转一下头部控制器： 这时候头发就会跟着头一起动了。
 
@@ -58,7 +58,7 @@ categories:
 
 重绘一些不对的地方
 
-![meeting_01.00_01_58_09.Still033](%E3%80%90Fufu%E5%BB%BA%E6%A8%A1%E4%B8%8E%E5%8A%A8%E7%94%BB4%E3%80%91%E9%AA%A8%E9%AA%BC%E7%BB%91%E5%AE%9A%E4%B8%8E%E6%9D%83%E9%87%8D/meeting_01.00_01_58_09.Still033-1769725257947.png)
+![meeting_01.00_01_58_09.Still033](【Fufu建模与动画4】骨骼绑定与权重/meeting_01.00_01_58_09.Still033-1769725257947-1769737221161.png)
 
 > #### tips 光滑工具：让过渡更柔和
 >

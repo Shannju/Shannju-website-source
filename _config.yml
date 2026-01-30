@@ -107,3 +107,9 @@ deploy:
   repo: https://github.com/Shannju/Shannju.github.io.git
   branch: master
 
+image_sizes:
+  profiles:
+    thumb:
+      width: 400
+    medium:
+      width: 900

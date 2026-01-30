@@ -24,7 +24,7 @@ categories:
 
 制作上衣时，我们直接从身体网格中选出衣服对应的区域。
 
-![meeting_01.00_02_04_05.Still035](%E3%80%90Fufu%E5%BB%BA%E6%A8%A1%E4%B8%8E%E5%8A%A8%E7%94%BB5%E3%80%91%E8%A1%A3%E6%9C%8D/meeting_01.00_02_04_05.Still035.png)
+![meeting_01.00_02_04_05.Still035](【Fufu建模与动画5】衣服/meeting_01.00_02_04_05.Still035-1769737232380.png)
 
 
 
@@ -32,33 +32,33 @@ categories:
 
 进入衣服的编辑模式，全选后用法线方向缩放，把衣服整体往外顶一点点，这一步可以有效避免和身体重叠造成的破面问题。
 
-![meeting_01.00_02_04_13.Still036](%E3%80%90Fufu%E5%BB%BA%E6%A8%A1%E4%B8%8E%E5%8A%A8%E7%94%BB5%E3%80%91%E8%A1%A3%E6%9C%8D/meeting_01.00_02_04_13.Still036.png)
+![meeting_01.00_02_04_13.Still036](【Fufu建模与动画5】衣服/meeting_01.00_02_04_13.Still036-1769737234648.png)
 
  如果想让衣服有厚度，可以给衣服加一个实体化修改器。
 
-![meeting_01.00_02_05_05.Still037](meeting_01.00_02_05_05.Still037.png)
+![meeting_01.00_02_05_05.Still037-1769727491878](【Fufu建模与动画5】衣服/meeting_01.00_02_05_05.Still037-1769727491878.png)
 
 在此基础上，就可以开始加衣服的造型细节了。
 
-![meeting_01.00_02_08_13.Still039](%E3%80%90Fufu%E5%BB%BA%E6%A8%A1%E4%B8%8E%E5%8A%A8%E7%94%BB5%E3%80%91%E8%A1%A3%E6%9C%8D/meeting_01.00_02_08_13.Still039.png)
+![meeting_01.00_02_08_13.Still039](【Fufu建模与动画5】衣服/meeting_01.00_02_08_13.Still039-1769737236051.png)
 
 ## 裙子制作
 
 裤子的做法和上衣几乎是一样的
 
-![meeting_01.00_02_27_12.Still044](%E3%80%90Fufu%E5%BB%BA%E6%A8%A1%E4%B8%8E%E5%8A%A8%E7%94%BB5%E3%80%91%E8%A1%A3%E6%9C%8D/meeting_01.00_02_27_12.Still044.png)
+![meeting_01.00_02_27_12.Still044](【Fufu建模与动画5】衣服/meeting_01.00_02_27_12.Still044-1769737237737.png)
 
 袖子
 
-![meeting_01.00_02_30_05.Still046](%E3%80%90Fufu%E5%BB%BA%E6%A8%A1%E4%B8%8E%E5%8A%A8%E7%94%BB5%E3%80%91%E8%A1%A3%E6%9C%8D/meeting_01.00_02_30_05.Still046.png)
+![meeting_01.00_02_30_05.Still046](【Fufu建模与动画5】衣服/meeting_01.00_02_30_05.Still046-1769737239281.png)
 
 加些倒角
 
-![meeting_01.00_02_48_12.Still049](%E3%80%90Fufu%E5%BB%BA%E6%A8%A1%E4%B8%8E%E5%8A%A8%E7%94%BB5%E3%80%91%E8%A1%A3%E6%9C%8D/meeting_01.00_02_48_12.Still049.png)
+![meeting_01.00_02_48_12.Still049](【Fufu建模与动画5】衣服/meeting_01.00_02_48_12.Still049-1769737241053.png)
 
 鞋子
 
-![meeting_01.00_02_31_07.Still047](%E3%80%90Fufu%E5%BB%BA%E6%A8%A1%E4%B8%8E%E5%8A%A8%E7%94%BB5%E3%80%91%E8%A1%A3%E6%9C%8D/meeting_01.00_02_31_07.Still047.png)
+![meeting_01.00_02_31_07.Still047](【Fufu建模与动画5】衣服/meeting_01.00_02_31_07.Still047-1769737242545.png)
 
 
 
@@ -68,15 +68,15 @@ categories:
 
 做了一个领带
 
-![meeting_01.00_02_13_03.Still040](%E3%80%90Fufu%E5%BB%BA%E6%A8%A1%E4%B8%8E%E5%8A%A8%E7%94%BB5%E3%80%91%E8%A1%A3%E6%9C%8D/meeting_01.00_02_13_03.Still040.png)
+![meeting_01.00_02_13_03.Still040](【Fufu建模与动画5】衣服/meeting_01.00_02_13_03.Still040-1769737244083.png)
 
-![meeting_01.00_02_16_01.Still042](C:%5CUsers%5Cshan%5COneDrive%20-%20Goldsmiths%20College%5C%E6%A1%8C%E9%9D%A2%5C%E5%BB%BA%E6%A8%A1%5Cmeeting_01.00_02_16_01.Still042.png)
+![meeting_01.00_02_16_01.Still042](【Fufu建模与动画5】衣服/meeting_01.00_02_16_01.Still042.png)
 
 
 
 最终效果
 
-#### ![meeting_01.00_03_34_05.Still053](C:%5CUsers%5Cshan%5COneDrive%20-%20Goldsmiths%20College%5C%E6%A1%8C%E9%9D%A2%5C%E5%BB%BA%E6%A8%A1%5Cmeeting_01.00_03_34_05.Still053.png)
+#### ![meeting_01.00_03_34_05.Still053](【Fufu建模与动画5】衣服/meeting_01.00_03_34_05.Still053.png)
 
 这种网格复制权重的方法，最大的优势就是省时间、省精力。衣服一开始就拥有和身体一致的权重，进入姿态模式随便摆动作，衣服都会完整跟随，几乎不会出大问题。
  对新手来说，这意味着不用在权重上反复折腾，也不用担心一动就穿模。同时，因为衣服都是独立网格，还可以通过集合快速切换不同款式，非常适合做换装和多方案展示。
